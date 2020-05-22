@@ -1,0 +1,111 @@
+*{
+    padding:0;
+	margin: 0;
+	text-decoration: none;
+}
+
+body{
+	background-image: url(back.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	color:#0d0d0d;
+	font-size: 20px: 
+}
+
+#title {
+	background: #ffff99;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	font-size: 25px;
+	box-shadow: black 2px 2px 8px;
+}
+
+div#container{
+	width: 608px;
+	margin: 50px auto;
+	font-family: Georgia;
+
+}
+ul#menu{
+	list-style: none;
+	font-family: Georgia;
+
+}
+ul#menu li {
+
+float: left;
+background: #ffff99;
+width: 150px;
+margin:0 2px 0 0;
+font-family: Georgia;
+}
+
+ul#menu li :hover{
+	background: #666666;
+}
+
+
+ul#menu li a {
+	padding:10px;
+	display: block;
+}
+
+
+ul#menu li a:hover{
+	color:white;
+}
+
+div#tartalom{
+ text-align: center;
+ padding-top: 60px;
+ padding-bottom: 200px;
+ font-size: 10px;
+ font-family: Palatino Linotype;
+}
+
+h1{
+	padding-top: 20px;
+	text-align: center;
+}
+
+h2{
+	padding-top: 20px;
+	text-align: center;
+}
+
+h3{
+	padding-top: 20px;
+    text-align: center;
+}
+
+h4{
+	padding-top: 50px;
+    text-align: center;
+}
+
+h5{
+	padding-top: 10px;
+	text-align: center;
+	box-shadow: 10px;
+}
+
+h6{
+	font-size: 20px;
+	font-family: Palatino Linotype;
+}
+
+div#kep{
+	padding-top: 100px;
+	text-align: center;
+	font-family: Palatino Linotype;
+}
+
+div#cim{
+	padding-top: 100px;
+	text-align: center;
+	font-size: 40px;
+	font-family: Georgia;
+}
